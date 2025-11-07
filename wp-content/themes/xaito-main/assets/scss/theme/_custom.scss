@@ -1,0 +1,330 @@
+@use '../utils' as *;
+
+//  table css here 
+table {
+    margin: 0 0 1.5em;
+    width: 100%;
+}
+
+table {
+    margin: 0 0 1.5em;
+    width: 100%;
+    max-width: 100%;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+table>tbody>tr>td,
+table>tbody>tr>th,
+table>tfoot>tr>td,
+table>tfoot>tr>th,
+table>thead>tr>td,
+table>thead>tr>th {
+    padding: 8px;
+    vertical-align: middle;
+    border: 1px solid #f0f0f0;
+    border-top: 1px solid #f0f0f0;
+    font-size: 16px;
+}
+
+table>tbody>tr>td,
+table>tbody>tr>th,
+table>tfoot>tr>td,
+table>tfoot>tr>th,
+table>thead>tr>td,
+table>thead>tr>th {
+    padding: 8px;
+    vertical-align: middle;
+    border: 1px solid #f0f0f0;
+    border-top: 1px solid #f0f0f0;
+    font-size: 16px;
+}
+
+dd {
+    margin-left: 20px;
+}
+
+div.main-menu ul li.current a {
+    color: var(--xc-theme-primary);
+
+    &::after {
+        color: var(--xc-theme-primary);
+    }
+}
+
+.latest-comments ul.children,
+.latest-comments ul.ul-0 {
+    list-style: none;
+}
+
+
+// gallery start
+.gallery {
+    margin-bottom: 1.5em;
+    display: grid;
+    grid-gap: 1.5em;
+}
+
+.gallery-item {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+// Loops to enumerate the classes for gallery columns.
+@for $i from 2 through 9 {
+
+    .gallery-columns-#{$i} {
+        grid-template-columns: repeat($i, 1fr);
+    }
+}
+
+.gallery-caption {
+    display: block;
+}
+
+// gallery end
+
+// default header 
+.xc-default-header {
+    border-bottom: 1px solid #ccc;
+
+    & .xc-default-logo {
+        padding: 18px 0;
+    }
+}
+
+// defalt footer
+.xc-default-footer {
+    background-color: var(--xc-common-black);
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    & p {
+        margin-bottom: 0;
+        opacity: .8;
+        color: var(--xc-common-white);
+
+        & a {
+            transition: .3s;
+
+            &:hover {
+                color: var(--xc-common-white);
+            }
+        }
+    }
+}
+
+.xc-no-results {
+    text-align: center;
+}
+
+.xc-error-page__form-input {
+    position: relative;
+    max-width: 550px;
+    margin: 0 auto;
+
+    & input {
+        height: 60px;
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 80px;
+        margin-right: 0px;
+        border: 1px solid #d7d2d2;
+
+        &:focus {
+            outline: 0;
+        }
+    }
+
+    & button {
+        position: absolute;
+        right: 0;
+        height: 60px;
+        padding-left: 30px;
+        padding-right: 30px;
+        color: var(--xc-common-black);
+
+        &:hover {
+            color: var(--xc-theme-primary);
+        }
+    }
+}
+
+
+
+// modify theme css here 
+
+.comments-avatar {
+    margin-right: 20px;
+    float: left;
+}
+
+.xc-postbox__comment-text {
+    width: calc(100% - 90px);
+    overflow: hidden;
+}
+
+.xc-postbox__comment-text a {
+    word-wrap: break-word;
+    color: var(--xc-common-black);
+    font-weight: 600;
+    transition: .3s;
+}
+
+.xc-postbox__tags span {
+    margin-bottom: 0;
+}
+
+
+
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute !important;
+    width: 1px;
+    word-wrap: normal !important;
+    /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+    background-color: #eee;
+    clip: auto !important;
+    clip-path: none;
+    color: #444;
+    display: block;
+    font-size: 1em;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+    /* Above WP toolbar. */
+}
+
+.bypostauthor {
+    display: block;
+}
+
+.tagcloud a,
+.catscloud a {
+    font-size: 14px !important;
+}
+
+.xc-menu-ul {
+    margin-bottom: 0 !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+.xc-wp-menu {
+    display: block !important;
+}
+
+.main-menu ul li .submenu {
+    width: 250px;
+}
+
+@media #{$xl} {
+    .main-menu ul li+li {
+        margin-left: 30px;
+    }
+}
+
+.main-menu ul li.menu-last {
+    & .submenu {
+        right: 0;
+        left: auto;
+
+        & li {
+            & .submenu {
+                right: 100%;
+                left: auto;
+            }
+        }
+    }
+}
+
+.admin-bar {
+
+    & .xc-mobile-nav__wrapper,
+    & .xc-header-sticky {
+        top: 32px;
+    }
+
+    @media screen and (max-width: 782px) {
+
+        & .xc-mobile-nav__wrapper,
+        & .xc-header-sticky {
+            top: 46px;
+        }
+    }
+}
+
+.xc-mobile-nav__content .logo-box a h1 {
+    color: var(--xc-common-white);
+}
+
+.xc-mobile-nav__social a {
+    display: inline-block;
+}
+
+.xc-feature-five__section .item+.item {
+margin-left: 40px;
+}
+
+.xc-featrue-five__warapper {
+    padding-left: 100px;
+    padding-right: 100px;
+
+    @media #{$sm,$xs,$md} {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+.xc-feature-five__section .xc-section__title {
+    font-size: 36px;
+}
+
+.elementor .xc-header-banner__img img {
+    border-radius: 30px;
+}
+
+.xc-about-one__feature-list .xc-icon {
+    width: 25px;
+    height: 25px;
+}
+
+.xc-brand-one__item {
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.xc-header-banner-2__bottom img {
+    margin-right: 20px;
+}
+
+.xc-about-six__list li::before {
+    top: 5px;
+}
+
+.xc-header-banner__bg {
+    left: 0;
+    right: 0;
+}

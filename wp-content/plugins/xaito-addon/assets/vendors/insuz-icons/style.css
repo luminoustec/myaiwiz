@@ -1,0 +1,277 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?orkqwr');
+  src: url('fonts/icomoon.eot?orkqwr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?orkqwr') format('truetype'),
+    url('fonts/icomoon.woff?orkqwr') format('woff'),
+    url('fonts/icomoon.svg?orkqwr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+.icon-stats:before {
+  content: "\e929";
+}
+
+.icon-airplane:before {
+  content: "\e92d";
+}
+
+.icon-arrow-right:before {
+  content: "\e900";
+}
+
+.icon-auto-insurance:before {
+  content: "\e901";
+}
+
+.icon-chalk-board:before {
+  content: "\e902";
+}
+
+.icon-check:before {
+  content: "\e903";
+}
+
+.icon-check1:before {
+  content: "\e904";
+}
+
+.icon-clock:before {
+  content: "\e905";
+}
+
+.icon-cog-cogwheel:before {
+  content: "\e906";
+}
+
+.icon-comment:before {
+  content: "\e907";
+}
+
+.icon-discuss:before {
+  content: "\e908";
+}
+
+.icon-down-arrow:before {
+  content: "\e909";
+}
+
+.icon-up-arrow1:before {
+  content: "\e934";
+}
+
+.icon-left-arrow:before {
+  content: "\e935";
+}
+
+.icon-right-arrow1:before {
+  content: "\e936";
+}
+
+.icon-draw-check-mark:before {
+  content: "\e90a";
+}
+
+.icon-earthquake-and-home:before {
+  content: "\e90b";
+}
+
+.icon-envelope:before {
+  content: "\e90c";
+}
+
+.icon-fire:before {
+  content: "\e90d";
+}
+
+.icon-healthcare-device:before {
+  content: "\e90e";
+}
+
+.icon-health-healthcare-medical:before {
+  content: "\e90f";
+}
+
+.icon-home:before {
+  content: "\e910";
+}
+
+.icon-home-1:before {
+  content: "\e911";
+}
+
+.icon-insurance:before {
+  content: "\e912";
+}
+
+.icon-line-chart:before {
+  content: "\e913";
+}
+
+.icon-link:before {
+  content: "\e914";
+}
+
+.icon-location:before {
+  content: "\e915";
+}
+
+.icon-menu:before {
+  content: "\e916";
+}
+
+.icon-minus:before {
+  content: "\e917";
+}
+
+.icon-money:before {
+  content: "\e918";
+}
+
+.icon-mortgage-insurance:before {
+  content: "\e919";
+}
+
+.icon-next:before {
+  content: "\e91a";
+}
+
+.icon-phone:before {
+  content: "\e91b";
+}
+
+.icon-play-button:before {
+  content: "\e91c";
+}
+
+.icon-play-of-right-arrow-triangle:before {
+  content: "\e91d";
+}
+
+.icon-profits:before {
+  content: "\e91e";
+}
+
+.icon-profits1:before {
+  content: "\e91f";
+}
+
+.icon-protect-support:before {
+  content: "\e920";
+}
+
+.icon-quote-hand-drawn-symbol:before {
+  content: "\e921";
+}
+
+.icon-riding-car:before {
+  content: "\e922";
+}
+
+.icon-right-arrow:before {
+  content: "\e923";
+}
+
+.icon-left-arrow1:before {
+  content: "\e937";
+}
+
+.icon-up-arrow2:before {
+  content: "\e938";
+}
+
+.icon-down-arrow1:before {
+  content: "\e939";
+}
+
+.icon-save-nature:before {
+  content: "\e924";
+}
+
+.icon-search:before {
+  content: "\e925";
+}
+
+.icon-send:before {
+  content: "\e926";
+}
+
+.icon-share:before {
+  content: "\e927";
+}
+
+.icon-shield:before {
+  content: "\e928";
+}
+
+.icon-shield1:before {
+  content: "\e92a";
+}
+
+.icon-stand-up:before {
+  content: "\e92b";
+}
+
+.icon-star:before {
+  content: "\e92c";
+}
+
+.icon-support:before {
+  content: "\e92e";
+}
+
+.icon-tag:before {
+  content: "\e92f";
+}
+
+.icon-up-arrow:before {
+  content: "\e930";
+}
+
+.icon-down-arrow2:before {
+  content: "\e93a";
+}
+
+.icon-left-arrow2:before {
+  content: "\e93b";
+}
+
+.icon-right-arrow2:before {
+  content: "\e93c";
+}
+
+.icon-user:before {
+  content: "\e931";
+}
+
+.icon-users-1:before {
+  content: "\e932";
+}
+
+.icon-wedding:before {
+  content: "\e933";
+}

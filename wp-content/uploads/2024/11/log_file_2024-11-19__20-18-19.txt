@@ -1,0 +1,62 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://myaiwiz.com
+Data file = /sites/myaiwiz.com/files/wp-content/uploads/2024/11/sample-data.xml
+Widget file = /sites/myaiwiz.com/files/wp-content/uploads/2024/11/widgets.wie
+Customizer file = /sites/myaiwiz.com/files/wp-content/uploads/2024/11/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Recent Posts With Thumbnails - Latest Post  - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

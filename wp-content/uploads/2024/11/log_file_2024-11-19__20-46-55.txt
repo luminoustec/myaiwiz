@@ -1,0 +1,27 @@
+
+---Downloaded files---
+The import files for: Xaito Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://myaiwiz.com
+Data file = /sites/myaiwiz.com/files/wp-content/uploads/2024/11/demo-content-import-file_2024-11-19__20-46-55.xml
+Widget file = /sites/myaiwiz.com/files/wp-content/uploads/2024/11/demo-widgets-import-file_2024-11-19__20-46-55.json
+Customizer file = /sites/myaiwiz.com/files/wp-content/uploads/2024/11/demo-customizer-import-file_2024-11-19__20-46-55.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Recent Posts With Thumbnails - Latest Post  - Widget already exists
+Block - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

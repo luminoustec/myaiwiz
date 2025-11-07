@@ -1,0 +1,27 @@
+
+$xc-theme-color:var(--xc-theme-primary);
+$colors: (
+    'common': (
+        'white':#ffffff,
+        'black': #000000,
+    ),
+    'heading': (
+        'primary': #101828,
+    ),
+    'grey': (
+        '1':#5B6475,
+        // '2':#727679,
+    ),
+    'text': (
+        'body':#475467,
+        '1':#000,
+    ),
+    'theme': (
+        'primary': #4E43FA,
+        'primary-rgb':(78, 67, 250),
+        'secondary': #3618d3,
+    ),
+    'border': (
+        '1': #B9CCDA,
+    )
+);

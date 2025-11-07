@@ -1,0 +1,96 @@
+@use '../../utils' as *;
+
+/*----------------------------------------*/
+/*  7.11 Subscribe css */
+/*----------------------------------------*/
+
+.xc-subscribe-one {
+    &__section {
+        margin-bottom: -120px;
+        z-index: 1;
+        position: relative;
+    }
+    &__bg {
+        padding-top: 100px;
+        padding-bottom: 70px;
+        padding-left: 100px;
+        padding-right: 100px;
+        border-radius: 10px;
+        @media #{$lg} {
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+        @media #{$xs,$sm} {
+            padding-top: 50px;
+            padding-bottom: 20px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    }
+    &__content {
+        & .xc-icon {
+            font-size: 60px;
+            color: var(--xc-common-white);
+            margin-right: 30px;
+            @media #{$xs,$sm} {
+                margin-bottom: 20px;
+            }
+        }
+
+        & p {
+            color: var(--xc-common-white);
+            margin-bottom: 0;
+        }
+    }
+
+    &__title {
+        color: var(--xc-common-white);
+        font-size: 36px;
+        font-weight: 600;
+        margin-bottom: 5px;
+        line-height: 1;
+        @media #{$xl,$lg} {
+            font-size: 32px;
+        }
+        @media #{$lg,$md} {
+            font-size: 30px;
+        }
+        @media #{$xs,$sm} { 
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+    }
+
+    &__input {
+        & input {
+            height: 60px;
+            border-radius: 5px;
+            padding-right: 80px;
+        }
+        position: relative;
+        margin-bottom: 0;
+        
+    }
+
+    &__button {
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        display: block;
+
+        & button.xc-form-submit {
+            height: 100%;
+            padding-left: 20px;
+            padding-right: 20px;
+            background-color: var(--xc-common-black);
+            color: var(--xc-common-white);
+            border-radius: 0 5px 5px 0;
+            transition: .3s;
+            &:hover {
+                background-color: var(--xc-theme-secondary);
+            }
+        }
+    }
+
+}

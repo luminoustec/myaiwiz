@@ -1,0 +1,2565 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-02-27 20:42+0600\n"
+"PO-Revision-Date: 2022-02-14 17:11+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: common/functions.php:217
+#, php-format
+msgid "No Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: common/functions.php:243
+msgid " "
+msgstr ""
+
+#: common/functions.php:246
+#, php-format
+msgid "Categories: %1$s"
+msgstr ""
+
+#: common/functions.php:253
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: common/functions.php:515
+msgid "Slider Options"
+msgstr ""
+
+#: common/functions.php:528
+msgid "AutoPlay"
+msgstr ""
+
+#: common/functions.php:530 common/functions.php:563 common/functions.php:575
+#: common/functions.php:617 elementor-options/blog-option.php:70
+#: elementor-options/faq-one-option.php:40
+#: elementor-options/faq-two-option.php:42
+#: elementor-options/header-option.php:51
+#: elementor-options/header-option.php:140 includes/Customizer.php:67
+#: includes/Customizer.php:79 includes/Customizer.php:91
+#: includes/Customizer.php:103 includes/Customizer.php:115
+#: includes/Customizer.php:139 includes/Customizer.php:244
+#: includes/Customizer.php:256 includes/Customizer.php:268
+#: includes/Customizer.php:398
+msgid "Yes"
+msgstr ""
+
+#: common/functions.php:531 common/functions.php:564 common/functions.php:576
+#: common/functions.php:618 elementor-options/blog-option.php:71
+#: elementor-options/faq-one-option.php:41
+#: elementor-options/faq-two-option.php:43
+#: elementor-options/header-option.php:52
+#: elementor-options/header-option.php:141 includes/Customizer.php:68
+#: includes/Customizer.php:80 includes/Customizer.php:92
+#: includes/Customizer.php:104 includes/Customizer.php:116
+#: includes/Customizer.php:140 includes/Customizer.php:245
+#: includes/Customizer.php:257 includes/Customizer.php:269
+#: includes/Customizer.php:399
+msgid "No"
+msgstr ""
+
+#: common/functions.php:540
+msgid "AutoPlay Delay"
+msgstr ""
+
+#: common/functions.php:561
+msgid "Loop"
+msgstr ""
+
+#: common/functions.php:573
+msgid "Display Nav"
+msgstr ""
+
+#: common/functions.php:585
+msgid "Nav Left Icon"
+msgstr ""
+
+#: common/functions.php:600
+msgid "Nav Right Icon"
+msgstr ""
+
+#: common/functions.php:615
+msgid "Display Dots"
+msgstr ""
+
+#: common/functions.php:628
+msgid "Smart Speed"
+msgstr ""
+
+#: common/functions.php:650
+msgid "Slide Items"
+msgstr ""
+
+#: common/functions.php:670 common/functions.php:733
+msgid "Margin"
+msgstr ""
+
+#: common/functions.php:693
+msgid "Screen Size"
+msgstr ""
+
+#: common/functions.php:713
+msgid "Slide Item"
+msgstr ""
+
+#: common/functions.php:753
+msgid "Breakpoints"
+msgstr ""
+
+#: common/functions.php:775 common/functions.php:946
+msgid " Typography"
+msgstr ""
+
+#: common/functions.php:788
+msgid " Color"
+msgstr ""
+
+#: common/functions.php:914
+msgid " Padding"
+msgstr ""
+
+#: common/functions.php:929
+msgid " Margin"
+msgstr ""
+
+#: common/functions.php:959
+msgid "Color"
+msgstr ""
+
+#: common/functions.php:994
+msgid "Padding"
+msgstr ""
+
+#: common/functions.php:1031
+msgid "Border Radius"
+msgstr ""
+
+#: common/functions.php:1070 includes/Widgets/GoogleMaps.php:141
+msgid "Normal"
+msgstr ""
+
+#: common/functions.php:1080 common/functions.php:1121
+msgid "Text Color"
+msgstr ""
+
+#: common/functions.php:1095 common/functions.php:1135
+#: includes/Widgets/Testimonials.php:88
+msgid "Background Color"
+msgstr ""
+
+#: common/functions.php:1111 includes/Widgets/GoogleMaps.php:158
+msgid "Hover"
+msgstr ""
+
+#: common/functions.php:1149 includes/Widgets/Features.php:144
+msgid "Border Color"
+msgstr ""
+
+#: common/functions.php:1175
+msgid " Tag"
+msgstr ""
+
+#: common/functions.php:1202
+msgid "Column Options"
+msgstr ""
+
+#: common/functions.php:1214
+msgid "Column Width %"
+msgstr ""
+
+#: xaito-addon.php:338
+msgid "Xaito Addon"
+msgstr ""
+
+#: xaito-addon.php:382
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: xaito-addon.php:383 xaito-addon.php:407 xaito-addon.php:432
+msgid "Xaito Theme Addon"
+msgstr ""
+
+#: xaito-addon.php:384 xaito-addon.php:408
+msgid "Elementor"
+msgstr ""
+
+#: xaito-addon.php:406 xaito-addon.php:431
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: xaito-addon.php:433
+msgid "PHP"
+msgstr ""
+
+#: elementor-options/about-five-option.php:9
+#: elementor-options/about-four-option.php:8
+#: elementor-options/about-one-option.php:7
+#: elementor-options/about-three-option.php:7
+#: elementor-options/about-two-option.php:7
+#: elementor-options/call-to-action-four-option.php:6
+#: elementor-options/call-to-action-one-option.php:6
+#: elementor-options/call-to-action-three-option.php:6
+#: elementor-options/call-to-action-two-option.php:6
+#: elementor-options/call-to-action-two-option.php:29
+#: elementor-options/faq-one-option.php:5
+#: elementor-options/faq-two-option.php:5
+#: elementor-options/features-one-option.php:8
+#: elementor-options/features-two-option.php:8
+#: elementor-options/footer-about-one-option.php:6
+#: elementor-options/footer-contact-one-option.php:5
+#: elementor-options/footer-contact-one-option.php:36
+#: elementor-options/footer-nav-one-option.php:6
+#: elementor-options/footer-subscribe-one-option.php:6
+#: elementor-options/funfact-one-option.php:8
+#: elementor-options/funfact-two-option.php:8
+#: elementor-options/header-option.php:86
+#: elementor-options/process-one-option.php:6
+#: elementor-options/service-four-option.php:6
+#: elementor-options/service-four-option.php:108
+#: elementor-options/service-one-option.php:6
+#: elementor-options/service-one-option.php:106
+#: elementor-options/service-three-option.php:6
+#: elementor-options/service-two-option.php:6
+#: elementor-options/sidebar-call-to-action-one-option.php:6
+#: elementor-options/sidebar-download-option-one.php:6
+#: elementor-options/sidebar-nav-menu-one-option.php:6
+#: elementor-options/sidebar-project-one-option.php:6
+#: elementor-options/team-one-option.php:6
+#: elementor-options/team-two-option.php:6
+#: elementor-options/testimonial-one-option.php:7
+#: elementor-options/testimonial-two-option.php:8
+#: elementor-options/video-one-option.php:6
+#: elementor-options/video-one-option.php:26
+#: elementor-options/video-one-option.php:34
+#: includes/Widgets/ContactForm.php:57 includes/Widgets/FooterCopyright.php:56
+#: includes/Widgets/Sponsors.php:56
+msgid "Content"
+msgstr ""
+
+#: elementor-options/about-five-option.php:23
+#: elementor-options/about-four-option.php:19
+#: elementor-options/about-one-option.php:18
+#: elementor-options/about-three-option.php:18
+#: elementor-options/about-two-option.php:18
+#: elementor-options/features-one-option.php:30
+#: elementor-options/features-two-option.php:70
+#: elementor-options/process-one-option.php:17
+#: elementor-options/testimonial-one-option.php:19
+#: elementor-options/testimonial-two-option.php:20
+#: includes/Widgets/ContactForm.php:68
+msgid "Section Title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:25
+#: elementor-options/about-four-option.php:21
+#: elementor-options/about-one-option.php:20
+#: elementor-options/about-one-option.php:53
+#: elementor-options/about-three-option.php:20
+#: elementor-options/about-three-option.php:89
+#: elementor-options/about-two-option.php:20
+#: elementor-options/about-two-option.php:83
+#: elementor-options/faq-one-option.php:77
+#: elementor-options/features-one-option.php:32
+#: elementor-options/features-one-option.php:76
+#: elementor-options/features-two-option.php:72
+#: elementor-options/features-two-option.php:156
+#: elementor-options/sidebar-download-option-one.php:16
+#: elementor-options/sidebar-nav-menu-one-option.php:16
+#: elementor-options/video-one-option.php:67
+msgid "Add title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:26
+#: elementor-options/about-four-option.php:22
+#: elementor-options/about-one-option.php:21
+#: elementor-options/about-three-option.php:21
+#: elementor-options/about-two-option.php:21
+#: elementor-options/faq-one-option.php:78
+#: elementor-options/features-one-option.php:33
+#: elementor-options/features-one-option.php:77
+#: elementor-options/features-two-option.php:73
+#: elementor-options/features-two-option.php:157
+msgid "Default title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:36
+#: elementor-options/about-four-option.php:32
+#: elementor-options/about-one-option.php:29
+#: elementor-options/about-three-option.php:29
+#: elementor-options/about-two-option.php:31
+#: elementor-options/features-one-option.php:41
+#: elementor-options/features-two-option.php:82
+#: elementor-options/process-one-option.php:26
+msgid "Section Sub Title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:38
+#: elementor-options/about-four-option.php:34
+#: elementor-options/about-one-option.php:31
+#: elementor-options/about-three-option.php:31
+#: elementor-options/about-two-option.php:33
+#: elementor-options/features-one-option.php:43
+#: elementor-options/features-two-option.php:84
+msgid "Add sub title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:39
+#: elementor-options/about-four-option.php:35
+#: elementor-options/about-one-option.php:32
+#: elementor-options/about-three-option.php:32
+#: elementor-options/about-two-option.php:34
+#: elementor-options/features-one-option.php:44
+#: elementor-options/features-two-option.php:85
+msgid "Default Sub title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:46
+#: elementor-options/about-four-option.php:42
+#: elementor-options/about-four-option.php:51
+#: elementor-options/about-one-option.php:39
+#: elementor-options/about-three-option.php:39
+#: elementor-options/about-two-option.php:41
+#: elementor-options/features-one-option.php:52
+#: elementor-options/features-two-option.php:93
+msgid "Summary"
+msgstr ""
+
+#: elementor-options/about-five-option.php:48
+#: elementor-options/about-four-option.php:44
+#: elementor-options/about-four-option.php:53
+#: elementor-options/about-one-option.php:41
+#: elementor-options/about-three-option.php:41
+#: elementor-options/about-three-option.php:50
+#: elementor-options/about-two-option.php:43
+#: elementor-options/features-one-option.php:54
+#: elementor-options/features-two-option.php:95
+msgid "Add summary"
+msgstr ""
+
+#: elementor-options/about-five-option.php:49
+#: elementor-options/about-four-option.php:45
+#: elementor-options/about-four-option.php:54
+#: elementor-options/about-one-option.php:42
+#: elementor-options/about-three-option.php:42
+#: elementor-options/about-three-option.php:51
+#: elementor-options/about-two-option.php:44
+#: elementor-options/features-one-option.php:55
+#: elementor-options/features-two-option.php:96
+msgid "Default summary"
+msgstr ""
+
+#: elementor-options/about-five-option.php:56
+msgid "About Title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:63
+#: elementor-options/about-one-option.php:89
+#: elementor-options/about-three-option.php:136
+#: elementor-options/about-two-option.php:130
+#: elementor-options/features-one-option.php:162
+#: elementor-options/features-two-option.php:180
+#: elementor-options/features-two-option.php:234
+#: elementor-options/project-five-option.php:166
+#: elementor-options/project-four-option.php:134
+#: elementor-options/project-one-option.php:164
+#: elementor-options/project-three-option.php:166
+#: elementor-options/project-two-option.php:156
+#: elementor-options/service-four-option.php:154
+#: elementor-options/service-four-option.php:160
+#: elementor-options/service-one-option.php:150
+#: elementor-options/service-three-option.php:162
+#: elementor-options/service-three-option.php:168
+#: elementor-options/service-two-option.php:161
+#: elementor-options/service-two-option.php:167
+#: includes/Widgets/ContactForm.php:154
+msgid "Discover"
+msgstr ""
+
+#: elementor-options/about-five-option.php:66
+#: elementor-options/about-one-option.php:92
+#: elementor-options/about-three-option.php:139
+#: elementor-options/about-two-option.php:133
+#: elementor-options/project-five-option.php:169
+#: elementor-options/project-four-option.php:137
+#: elementor-options/project-one-option.php:167
+#: elementor-options/project-three-option.php:169
+#: elementor-options/project-two-option.php:159
+#: elementor-options/service-four-option.php:157
+#: elementor-options/service-one-option.php:153
+#: elementor-options/service-three-option.php:165
+#: elementor-options/service-two-option.php:164
+#: includes/Widgets/ContactForm.php:157
+msgid "Define"
+msgstr ""
+
+#: elementor-options/about-five-option.php:75
+#: elementor-options/about-one-option.php:181
+#: elementor-options/about-two-option.php:157
+#: elementor-options/call-to-action-one-option.php:17
+msgid "Image One"
+msgstr ""
+
+#: elementor-options/about-five-option.php:85
+#: elementor-options/about-one-option.php:191
+#: elementor-options/about-two-option.php:167
+#: elementor-options/about-two-option.php:177
+#: elementor-options/features-two-option.php:29
+msgid "Image Two"
+msgstr ""
+
+#: elementor-options/about-five-option.php:95
+#: elementor-options/features-two-option.php:39
+msgid "Image Three"
+msgstr ""
+
+#: elementor-options/about-five-option.php:105
+#: elementor-options/about-one-option.php:202
+#: elementor-options/about-two-option.php:188
+#: elementor-options/features-two-option.php:49
+#: elementor-options/main-slider-one-option.php:73
+#: elementor-options/video-one-option.php:139
+msgid "Shape One"
+msgstr ""
+
+#: elementor-options/about-five-option.php:114
+#: elementor-options/about-two-option.php:198
+#: elementor-options/features-two-option.php:59
+#: elementor-options/main-slider-one-option.php:83
+#: elementor-options/video-one-option.php:150
+msgid "Shape Two"
+msgstr ""
+
+#: elementor-options/about-four-option.php:61
+#: elementor-options/about-three-option.php:58
+#: elementor-options/about-two-option.php:51
+#: elementor-options/call-to-action-four-option.php:37
+#: elementor-options/call-to-action-one-option.php:89
+#: elementor-options/call-to-action-three-option.php:37
+#: elementor-options/call-to-action-two-option.php:39
+#: elementor-options/main-slider-one-option.php:37
+#: elementor-options/main-slider-three-option.php:40
+#: elementor-options/main-slider-two-option.php:38
+#: elementor-options/process-one-option.php:86
+#: elementor-options/project-five-option.php:111
+#: elementor-options/project-four-option.php:79
+#: elementor-options/project-one-option.php:110
+#: elementor-options/project-three-option.php:111
+#: elementor-options/project-two-option.php:101
+#: elementor-options/service-three-option.php:130
+#: elementor-options/service-two-option.php:129
+msgid "Button Text"
+msgstr ""
+
+#: elementor-options/about-four-option.php:63
+#: elementor-options/about-three-option.php:60
+#: elementor-options/about-two-option.php:53
+#: elementor-options/call-to-action-one-option.php:91
+#: elementor-options/call-to-action-three-option.php:39
+#: elementor-options/main-slider-one-option.php:39
+#: elementor-options/main-slider-two-option.php:40
+#: elementor-options/process-one-option.php:88
+msgid "Start a Project"
+msgstr ""
+
+#: elementor-options/about-four-option.php:71
+#: elementor-options/about-three-option.php:68
+#: elementor-options/about-two-option.php:61
+#: elementor-options/call-to-action-four-option.php:47
+#: elementor-options/call-to-action-one-option.php:99
+#: elementor-options/call-to-action-three-option.php:47
+#: elementor-options/call-to-action-two-option.php:49
+#: elementor-options/header-option.php:229
+#: elementor-options/main-slider-one-option.php:47
+#: elementor-options/main-slider-three-option.php:50
+#: elementor-options/main-slider-two-option.php:48
+#: elementor-options/process-one-option.php:96
+#: elementor-options/project-five-option.php:121
+#: elementor-options/project-four-option.php:89
+#: elementor-options/project-one-option.php:120
+#: elementor-options/project-three-option.php:121
+#: elementor-options/project-two-option.php:111
+#: elementor-options/service-four-option.php:131
+#: elementor-options/service-one-option.php:128
+#: elementor-options/service-three-option.php:140
+#: elementor-options/service-two-option.php:139
+#: elementor-options/sidebar-call-to-action-one-option.php:65
+msgid "Button Url"
+msgstr ""
+
+#: elementor-options/about-four-option.php:73
+#: elementor-options/about-three-option.php:70
+#: elementor-options/about-two-option.php:63
+#: elementor-options/call-to-action-four-option.php:49
+#: elementor-options/call-to-action-one-option.php:101
+#: elementor-options/call-to-action-three-option.php:49
+#: elementor-options/call-to-action-two-option.php:51
+#: elementor-options/footer-contact-one-option.php:80
+#: elementor-options/header-option.php:262
+#: elementor-options/header-option.php:383
+#: elementor-options/main-slider-one-option.php:49
+#: elementor-options/main-slider-three-option.php:52
+#: elementor-options/main-slider-two-option.php:50
+#: elementor-options/process-one-option.php:98
+#: elementor-options/project-five-option.php:123
+#: elementor-options/project-four-option.php:91
+#: elementor-options/project-one-option.php:122
+#: elementor-options/project-three-option.php:123
+#: elementor-options/project-two-option.php:113
+#: elementor-options/service-four-option.php:133
+#: elementor-options/service-one-option.php:130
+#: elementor-options/service-three-option.php:142
+#: elementor-options/service-two-option.php:141
+#: elementor-options/sidebar-call-to-action-one-option.php:67
+#: elementor-options/team-one-option.php:60
+#: elementor-options/team-two-option.php:40
+msgid "#"
+msgstr ""
+
+#: elementor-options/about-four-option.php:88
+#: elementor-options/about-three-option.php:163
+#: elementor-options/features-one-option.php:19
+#: elementor-options/funfact-one-option.php:20
+#: elementor-options/funfact-two-option.php:29
+#: elementor-options/project-five-option.php:79
+#: elementor-options/project-four-option.php:47
+#: elementor-options/project-one-option.php:78
+#: elementor-options/project-three-option.php:79
+#: elementor-options/project-two-option.php:69
+#: elementor-options/service-four-option.php:75
+#: elementor-options/service-one-option.php:74
+#: elementor-options/service-three-option.php:75
+#: elementor-options/service-two-option.php:74
+#: elementor-options/sidebar-call-to-action-one-option.php:81
+#: elementor-options/team-one-option.php:84
+#: elementor-options/team-two-option.php:64
+#: elementor-options/testimonial-one-option.php:109
+#: elementor-options/testimonial-two-option.php:81
+#: elementor-options/video-one-option.php:129
+msgid "Image"
+msgstr ""
+
+#: elementor-options/about-one-option.php:51
+#: elementor-options/about-three-option.php:87
+#: elementor-options/about-two-option.php:81
+#: elementor-options/call-to-action-four-option.php:17
+#: elementor-options/call-to-action-three-option.php:17
+#: elementor-options/call-to-action-two-option.php:17
+#: elementor-options/features-one-option.php:74
+#: elementor-options/features-one-option.php:133
+#: elementor-options/features-two-option.php:154
+#: elementor-options/features-two-option.php:205
+#: elementor-options/funfact-two-option.php:153
+#: elementor-options/main-slider-one-option.php:19
+#: elementor-options/main-slider-three-option.php:21
+#: elementor-options/main-slider-two-option.php:28
+#: elementor-options/process-one-option.php:37
+#: elementor-options/project-five-option.php:17
+#: elementor-options/project-five-option.php:91
+#: elementor-options/project-four-option.php:59
+#: elementor-options/project-one-option.php:18
+#: elementor-options/project-one-option.php:90
+#: elementor-options/project-three-option.php:17
+#: elementor-options/project-three-option.php:91
+#: elementor-options/project-two-option.php:17
+#: elementor-options/project-two-option.php:81
+#: elementor-options/service-four-option.php:17
+#: elementor-options/service-four-option.php:98
+#: elementor-options/service-one-option.php:17
+#: elementor-options/service-one-option.php:96
+#: elementor-options/service-three-option.php:17
+#: elementor-options/service-three-option.php:109
+#: elementor-options/service-two-option.php:17
+#: elementor-options/service-two-option.php:108
+#: elementor-options/team-one-option.php:17
+#: elementor-options/video-one-option.php:14
+#: elementor-options/video-one-option.php:65 includes/Widgets/Blog.php:55
+#: includes/Widgets/ContactForm.php:127 includes/Widgets/FooterBlog.php:64
+msgid "Title"
+msgstr ""
+
+#: elementor-options/about-one-option.php:54
+#: elementor-options/about-three-option.php:90
+#: elementor-options/about-two-option.php:84
+#: elementor-options/video-one-option.php:68
+msgid "default title"
+msgstr ""
+
+#: elementor-options/about-one-option.php:60
+#: elementor-options/about-three-option.php:96
+#: elementor-options/about-two-option.php:90
+#: elementor-options/project-five-option.php:38
+#: elementor-options/project-one-option.php:39
+#: elementor-options/project-three-option.php:38
+#: elementor-options/service-four-option.php:26
+#: elementor-options/service-one-option.php:26
+#: elementor-options/service-three-option.php:26
+#: elementor-options/service-two-option.php:26
+msgid "Description"
+msgstr ""
+
+#: elementor-options/about-one-option.php:62
+#: elementor-options/about-three-option.php:98
+#: elementor-options/about-two-option.php:92
+msgid "Add Description"
+msgstr ""
+
+#: elementor-options/about-one-option.php:63
+#: elementor-options/about-three-option.php:99
+#: elementor-options/about-two-option.php:93
+msgid "default Description"
+msgstr ""
+
+#: elementor-options/about-one-option.php:69
+#: elementor-options/about-three-option.php:105
+#: elementor-options/about-two-option.php:99
+#: elementor-options/call-to-action-four-option.php:63
+#: elementor-options/call-to-action-one-option.php:57
+#: elementor-options/call-to-action-two-option.php:86
+#: elementor-options/features-one-option.php:62
+#: elementor-options/features-two-option.php:142
+#: elementor-options/footer-subscribe-one-option.php:54
+#: elementor-options/funfact-two-option.php:141
+#: elementor-options/header-option.php:96
+#: elementor-options/process-one-option.php:47
+#: elementor-options/service-four-option.php:86
+#: elementor-options/service-four-option.php:119
+#: elementor-options/service-one-option.php:85
+#: elementor-options/service-one-option.php:116
+#: elementor-options/service-three-option.php:86
+#: elementor-options/service-two-option.php:85
+#: elementor-options/sidebar-call-to-action-one-option.php:14
+#: elementor-options/sidebar-download-option-one.php:61
+#: elementor-options/sidebar-project-one-option.php:26
+#: elementor-options/testimonial-two-option.php:69
+#: elementor-options/video-one-option.php:94
+#: includes/Widgets/ContactForm.php:115
+msgid "Icon"
+msgstr ""
+
+#: elementor-options/about-one-option.php:82
+#: elementor-options/about-three-option.php:129
+#: elementor-options/about-two-option.php:123
+#: elementor-options/video-one-option.php:107
+msgid "Feature Lists"
+msgstr ""
+
+#: elementor-options/about-one-option.php:104
+msgid "Bottom Content"
+msgstr ""
+
+#: elementor-options/about-one-option.php:116
+msgid "Box Caption Text"
+msgstr ""
+
+#: elementor-options/about-one-option.php:118
+msgid "Add Image Caption"
+msgstr ""
+
+#: elementor-options/about-one-option.php:119
+msgid "Consulting <br> Experts"
+msgstr ""
+
+#: elementor-options/about-one-option.php:127
+msgid "Bottom Background"
+msgstr ""
+
+#: elementor-options/about-one-option.php:137
+msgid "Counter Number"
+msgstr ""
+
+#: elementor-options/about-one-option.php:139
+#: elementor-options/call-to-action-one-option.php:72
+msgid "20"
+msgstr ""
+
+#: elementor-options/about-one-option.php:146
+msgid "Counter After"
+msgstr ""
+
+#: elementor-options/about-one-option.php:148
+#: elementor-options/call-to-action-one-option.php:82
+#: elementor-options/video-one-option.php:87
+msgid "+"
+msgstr ""
+
+#: elementor-options/about-one-option.php:155
+msgid "Information"
+msgstr ""
+
+#: elementor-options/about-one-option.php:157
+#: elementor-options/testimonial-one-option.php:40
+msgid "Awesome Content"
+msgstr ""
+
+#: elementor-options/about-one-option.php:169
+#: elementor-options/about-two-option.php:145
+#: elementor-options/video-one-option.php:120
+msgid "Images"
+msgstr ""
+
+#: elementor-options/about-three-option.php:48
+msgid "Summary Extra"
+msgstr ""
+
+#: elementor-options/about-three-option.php:116
+#: elementor-options/about-two-option.php:110
+msgid "Small Icon"
+msgstr ""
+
+#: elementor-options/about-three-option.php:151
+msgid "Counter Box"
+msgstr ""
+
+#: elementor-options/about-three-option.php:174
+msgid "Count Box Title"
+msgstr ""
+
+#: elementor-options/about-three-option.php:176
+#: elementor-options/call-to-action-four-option.php:19
+#: elementor-options/call-to-action-one-option.php:30
+#: elementor-options/call-to-action-three-option.php:19
+#: elementor-options/call-to-action-two-option.php:19
+#: elementor-options/footer-nav-one-option.php:14
+#: elementor-options/footer-subscribe-one-option.php:16
+#: elementor-options/project-five-option.php:19
+#: elementor-options/project-one-option.php:20
+#: elementor-options/project-three-option.php:19
+#: elementor-options/project-two-option.php:19
+#: elementor-options/sidebar-call-to-action-one-option.php:26
+#: elementor-options/sidebar-project-one-option.php:38
+#: elementor-options/team-one-option.php:19 includes/Widgets/Blog.php:57
+#: includes/Widgets/ContactForm.php:70 includes/Widgets/ContactForm.php:129
+#: includes/Widgets/FooterBlog.php:66
+msgid "Add Title"
+msgstr ""
+
+#: elementor-options/about-three-option.php:177
+msgid "default Title"
+msgstr ""
+
+#: elementor-options/about-three-option.php:183
+msgid "Count Box Content"
+msgstr ""
+
+#: elementor-options/about-three-option.php:185
+#: elementor-options/call-to-action-two-option.php:31
+msgid "Add Content"
+msgstr ""
+
+#: elementor-options/about-three-option.php:186
+msgid "default Content"
+msgstr ""
+
+#: elementor-options/blog-option.php:6 includes/Widgets/FooterBlog.php:56
+msgid "Post Options"
+msgstr ""
+
+#: elementor-options/blog-option.php:15 includes/Widgets/FooterBlog.php:73
+msgid "Number Of Posts"
+msgstr ""
+
+#: elementor-options/blog-option.php:35
+msgid "Word Count In Excerpt"
+msgstr ""
+
+#: elementor-options/blog-option.php:55 includes/Widgets/FooterBlog.php:102
+msgid "Select Order"
+msgstr ""
+
+#: elementor-options/blog-option.php:59 includes/Widgets/FooterBlog.php:106
+msgid "DESC"
+msgstr ""
+
+#: elementor-options/blog-option.php:60 includes/Widgets/FooterBlog.php:107
+msgid "ASC"
+msgstr ""
+
+#: elementor-options/blog-option.php:68
+msgid "Enable Pagination?"
+msgstr ""
+
+#: elementor-options/call-to-action-four-option.php:20
+#: elementor-options/call-to-action-four-option.php:30
+#: elementor-options/call-to-action-one-option.php:31
+#: elementor-options/call-to-action-three-option.php:20
+#: elementor-options/call-to-action-three-option.php:30
+#: elementor-options/call-to-action-two-option.php:20
+#: elementor-options/project-five-option.php:20
+#: elementor-options/project-five-option.php:32
+#: elementor-options/project-one-option.php:21
+#: elementor-options/project-one-option.php:33
+#: elementor-options/project-three-option.php:20
+#: elementor-options/project-three-option.php:32
+#: elementor-options/project-two-option.php:20
+#: elementor-options/project-two-option.php:32
+#: elementor-options/sidebar-call-to-action-one-option.php:28
+#: elementor-options/sidebar-project-one-option.php:15
+#: elementor-options/sidebar-project-one-option.php:40
+#: elementor-options/team-one-option.php:20 includes/Widgets/Blog.php:58
+#: includes/Widgets/Blog.php:73 includes/Widgets/ContactForm.php:71
+#: includes/Widgets/ContactForm.php:130 includes/Widgets/FooterBlog.php:67
+msgid "Default Title"
+msgstr ""
+
+#: elementor-options/call-to-action-four-option.php:27
+#: elementor-options/call-to-action-three-option.php:27
+#: elementor-options/main-slider-one-option.php:28
+#: elementor-options/main-slider-three-option.php:31
+#: elementor-options/project-five-option.php:29
+#: elementor-options/project-one-option.php:30
+#: elementor-options/project-three-option.php:29
+#: elementor-options/project-two-option.php:29
+#: elementor-options/service-four-option.php:38
+#: elementor-options/service-one-option.php:38
+#: elementor-options/service-three-option.php:38
+#: elementor-options/service-two-option.php:38
+#: elementor-options/team-one-option.php:27
+#: elementor-options/testimonial-one-option.php:29
+#: elementor-options/testimonial-one-option.php:89
+#: elementor-options/testimonial-two-option.php:29
+#: elementor-options/testimonial-two-option.php:50 includes/Widgets/Blog.php:70
+msgid "Sub Title"
+msgstr ""
+
+#: elementor-options/call-to-action-four-option.php:29
+#: elementor-options/call-to-action-three-option.php:29
+#: elementor-options/project-five-option.php:31
+#: elementor-options/project-one-option.php:32
+#: elementor-options/project-three-option.php:31
+#: elementor-options/project-two-option.php:31
+#: elementor-options/team-one-option.php:29 includes/Widgets/Blog.php:72
+msgid "Add Sub Title"
+msgstr ""
+
+#: elementor-options/call-to-action-four-option.php:39
+#: elementor-options/call-to-action-two-option.php:41
+msgid "Make it Happen"
+msgstr ""
+
+#: elementor-options/call-to-action-four-option.php:75
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: elementor-options/call-to-action-four-option.php:87
+#: elementor-options/call-to-action-one-option.php:116
+#: elementor-options/call-to-action-three-option.php:63
+#: elementor-options/funfact-one-option.php:30
+#: elementor-options/project-five-option.php:49
+#: elementor-options/project-four-option.php:17
+#: elementor-options/project-one-option.php:50
+#: elementor-options/project-three-option.php:49
+#: elementor-options/project-two-option.php:39
+#: elementor-options/service-four-option.php:48
+#: elementor-options/service-one-option.php:48
+#: elementor-options/service-three-option.php:48
+#: elementor-options/video-one-option.php:160
+msgid "Background Image"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:28
+#: elementor-options/call-to-action-one-option.php:37
+msgid "Left Title"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:39
+#: elementor-options/features-one-option.php:85
+#: elementor-options/features-one-option.php:108
+#: elementor-options/features-two-option.php:118
+#: elementor-options/features-two-option.php:165
+#: elementor-options/sidebar-project-one-option.php:46
+#: includes/Widgets/ContactForm.php:139
+msgid "Add Info"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:40
+#: elementor-options/features-one-option.php:86
+#: elementor-options/features-two-option.php:166
+#: elementor-options/sidebar-project-one-option.php:48
+msgid "Default Info"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:47
+msgid "Right Title"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:49
+msgid "Add Title Two"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:50
+msgid "Default Title Two"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:69
+msgid "Count"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:71
+#: elementor-options/funfact-one-option.php:70
+#: elementor-options/funfact-one-option.php:133
+#: elementor-options/funfact-two-option.php:77
+#: elementor-options/video-one-option.php:75
+msgid "Count Number"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:79
+msgid "Count Before"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:81
+msgid "Add Count Before"
+msgstr ""
+
+#: elementor-options/call-to-action-two-option.php:32
+msgid "Default Content"
+msgstr ""
+
+#: elementor-options/call-to-action-two-option.php:65
+#: elementor-options/faq-one-option.php:85
+#: elementor-options/footer-subscribe-one-option.php:33
+msgid "Add Mailchimp URL"
+msgstr ""
+
+#: elementor-options/call-to-action-two-option.php:75
+#: elementor-options/footer-subscribe-one-option.php:43
+msgid "Input Placeholder Text"
+msgstr ""
+
+#: elementor-options/call-to-action-two-option.php:77
+#: elementor-options/footer-subscribe-one-option.php:45
+msgid "Enter your email"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:19
+#: elementor-options/faq-two-option.php:19
+msgid "Question"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:21
+#: elementor-options/faq-two-option.php:21
+msgid "Add Question"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:28
+#: elementor-options/faq-two-option.php:29
+msgid "Answer"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:30
+#: elementor-options/faq-two-option.php:31
+msgid "Add Answer"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:38
+#: elementor-options/faq-two-option.php:40
+msgid "Is active?"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:50
+#: elementor-options/faq-two-option.php:52 includes/Widgets/Faq.php:15
+msgid "FAQ"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:64
+msgid "Form"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:75
+msgid "Form Title"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:95
+msgid "Email Placeholder Text"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:97
+msgid "Email address"
+msgstr ""
+
+#: elementor-options/faq-two-option.php:22
+#: elementor-options/faq-two-option.php:32
+msgid "Default Question"
+msgstr ""
+
+#: elementor-options/features-one-option.php:83
+#: elementor-options/features-one-option.php:106
+#: elementor-options/features-two-option.php:116
+#: elementor-options/features-two-option.php:163
+#: includes/Widgets/ContactForm.php:137
+msgid "Info"
+msgstr ""
+
+#: elementor-options/features-one-option.php:94
+#: elementor-options/features-two-option.php:104
+#: elementor-options/header-option.php:162
+msgid "Call Icon"
+msgstr ""
+
+#: elementor-options/features-one-option.php:109
+#: elementor-options/features-two-option.php:119
+msgid "<a href=\"tel:08800115244\">CALL NOW - (088) 00-11-52-44</a>"
+msgstr ""
+
+#: elementor-options/features-one-option.php:119
+#: elementor-options/features-two-option.php:192
+msgid "Progress Items"
+msgstr ""
+
+#: elementor-options/features-one-option.php:135
+#: elementor-options/features-two-option.php:207
+#: elementor-options/project-five-option.php:93
+#: elementor-options/project-four-option.php:61
+#: elementor-options/project-one-option.php:92
+#: elementor-options/project-three-option.php:93
+#: elementor-options/project-two-option.php:83
+#: elementor-options/service-four-option.php:100
+#: elementor-options/service-one-option.php:98
+#: elementor-options/service-three-option.php:111
+#: elementor-options/service-two-option.php:110
+msgid "Ready to Explore? "
+msgstr ""
+
+#: elementor-options/features-one-option.php:144
+#: elementor-options/features-two-option.php:216
+msgid "Size"
+msgstr ""
+
+#: elementor-options/features-one-option.php:155
+#: elementor-options/features-two-option.php:173
+#: elementor-options/features-two-option.php:227
+#: includes/Widgets/ContactForm.php:147
+msgid "features"
+msgstr ""
+
+#: elementor-options/features-two-option.php:19
+msgid "Image one"
+msgstr ""
+
+#: elementor-options/features-two-option.php:129
+msgid "Feature Items"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:14
+msgid "Logo"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:25
+#: elementor-options/header-option.php:25
+msgid "Logo Dimension"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:27
+#: elementor-options/header-option.php:27
+msgid "Set Custom Logo Size."
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:38
+msgid "About Text"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:40
+#: elementor-options/footer-subscribe-one-option.php:25
+msgid "Add About Text"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:41
+#: elementor-options/footer-subscribe-one-option.php:26
+msgid "Default Text"
+msgstr ""
+
+#: elementor-options/footer-contact-one-option.php:13
+#: elementor-options/sidebar-download-option-one.php:14
+#: elementor-options/sidebar-nav-menu-one-option.php:14
+msgid "Widget Title"
+msgstr ""
+
+#: elementor-options/footer-contact-one-option.php:15
+msgid "Contact"
+msgstr ""
+
+#: elementor-options/footer-contact-one-option.php:24
+#: elementor-options/footer-contact-one-option.php:66
+#: elementor-options/header-option.php:248
+#: elementor-options/header-option.php:368
+msgid "Select Icon"
+msgstr ""
+
+#: elementor-options/footer-contact-one-option.php:39
+msgid "<a href=\"mailto:helpus24@gmail.com\">helpus24@gmail.com</a>"
+msgstr ""
+
+#: elementor-options/footer-contact-one-option.php:46
+msgid "Contact Info"
+msgstr ""
+
+#: elementor-options/footer-contact-one-option.php:52
+msgid "icon-email-1"
+msgstr ""
+
+#: elementor-options/footer-contact-one-option.php:55
+msgid "icon-phone"
+msgstr ""
+
+#: elementor-options/footer-contact-one-option.php:78
+#: elementor-options/header-option.php:260
+#: elementor-options/header-option.php:381
+msgid "Add Url"
+msgstr ""
+
+#: elementor-options/footer-contact-one-option.php:94
+#: elementor-options/header-option.php:276
+#: elementor-options/header-option.php:397
+msgid "Social Icons"
+msgstr ""
+
+#: elementor-options/footer-nav-one-option.php:16
+msgid "Links"
+msgstr ""
+
+#: elementor-options/footer-nav-one-option.php:25
+#: elementor-options/header-option.php:61
+#: elementor-options/sidebar-nav-menu-one-option.php:26
+msgid "Select Nav Menu"
+msgstr ""
+
+#: elementor-options/footer-subscribe-one-option.php:14
+msgid "Newsletter Title"
+msgstr ""
+
+#: elementor-options/footer-subscribe-one-option.php:17
+msgid "Newsletter"
+msgstr ""
+
+#: elementor-options/footer-subscribe-one-option.php:23
+msgid "Newsletter Text"
+msgstr ""
+
+#: elementor-options/funfact-one-option.php:45
+#: elementor-options/funfact-two-option.php:52
+msgid "Counter Items"
+msgstr ""
+
+#: elementor-options/funfact-one-option.php:58
+#: elementor-options/funfact-one-option.php:121
+#: elementor-options/funfact-two-option.php:65
+msgid "Count Icon"
+msgstr ""
+
+#: elementor-options/funfact-one-option.php:79
+#: elementor-options/funfact-one-option.php:142
+#: elementor-options/funfact-two-option.php:86
+msgid "Count Text"
+msgstr ""
+
+#: elementor-options/funfact-one-option.php:81
+#: elementor-options/funfact-one-option.php:144
+#: elementor-options/funfact-two-option.php:88
+#: elementor-options/funfact-two-option.php:155
+#: elementor-options/funfact-two-option.php:165
+msgid "Projects Completed"
+msgstr ""
+
+#: elementor-options/funfact-one-option.php:89
+#: elementor-options/funfact-one-option.php:152
+#: elementor-options/funfact-two-option.php:96
+msgid "Count Sign"
+msgstr ""
+
+#: elementor-options/funfact-one-option.php:98
+#: elementor-options/funfact-two-option.php:105
+msgid "Funfact Boxes Fist Row"
+msgstr ""
+
+#: elementor-options/funfact-one-option.php:105
+#: elementor-options/funfact-one-option.php:168
+#: elementor-options/funfact-two-option.php:112
+#: elementor-options/funfact-two-option.php:181
+msgid "Total Campaigns"
+msgstr ""
+
+#: elementor-options/funfact-one-option.php:161
+#: elementor-options/funfact-two-option.php:175
+msgid "Funfact Boxes Secound Row"
+msgstr ""
+
+#: elementor-options/funfact-two-option.php:19
+msgid "professional Title"
+msgstr ""
+
+#: elementor-options/funfact-two-option.php:21
+msgid "Professional Mental Therapy Services"
+msgstr ""
+
+#: elementor-options/funfact-two-option.php:39
+msgid "Background Image One"
+msgstr ""
+
+#: elementor-options/funfact-two-option.php:128
+msgid "Professional Items"
+msgstr ""
+
+#: elementor-options/funfact-two-option.php:163
+#: elementor-options/sidebar-call-to-action-one-option.php:55
+msgid "Text"
+msgstr ""
+
+#: elementor-options/header-option.php:5
+msgid "Site Logo"
+msgstr ""
+
+#: elementor-options/header-option.php:13
+msgid "Light Logo"
+msgstr ""
+
+#: elementor-options/header-option.php:41
+msgid "Navigation"
+msgstr ""
+
+#: elementor-options/header-option.php:49
+msgid "Enable One Page Menu?"
+msgstr ""
+
+#: elementor-options/header-option.php:73
+#: elementor-options/header-option.php:108
+msgid "Topbar Right Content"
+msgstr ""
+
+#: elementor-options/header-option.php:89
+msgid "helpus24@gmail.com"
+msgstr ""
+
+#: elementor-options/header-option.php:114
+msgid "Quick Email Now!"
+msgstr ""
+
+#: elementor-options/header-option.php:117
+msgid "Company Location"
+msgstr ""
+
+#: elementor-options/header-option.php:130
+msgid "Others"
+msgstr ""
+
+#: elementor-options/header-option.php:138
+msgid "Enable Search?"
+msgstr ""
+
+#: elementor-options/header-option.php:150
+#: elementor-options/header-option.php:152
+msgid "Search"
+msgstr ""
+
+#: elementor-options/header-option.php:177
+msgid "Call Number"
+msgstr ""
+
+#: elementor-options/header-option.php:179
+msgid "666 000 888"
+msgstr ""
+
+#: elementor-options/header-option.php:190
+msgid "call text"
+msgstr ""
+
+#: elementor-options/header-option.php:192
+msgid "Call Anytime"
+msgstr ""
+
+#: elementor-options/header-option.php:203
+msgid "call Url"
+msgstr ""
+
+#: elementor-options/header-option.php:216
+msgid "Button text"
+msgstr ""
+
+#: elementor-options/header-option.php:218
+msgid "Request Book"
+msgstr ""
+
+#: elementor-options/header-option.php:324
+msgid "Mobile Drawer"
+msgstr ""
+
+#: elementor-options/header-option.php:333
+msgid "Mobile Drawer Logo"
+msgstr ""
+
+#: elementor-options/header-option.php:346
+msgid "Email Address"
+msgstr ""
+
+#: elementor-options/header-option.php:348
+msgid "email@eamil.com"
+msgstr ""
+
+#: elementor-options/header-option.php:356
+msgid "Phone Number"
+msgstr ""
+
+#: elementor-options/header-option.php:358
+msgid "323232"
+msgstr ""
+
+#: elementor-options/main-slider-one-option.php:5
+#: elementor-options/main-slider-one-option.php:104
+#: elementor-options/main-slider-three-option.php:7
+#: elementor-options/main-slider-three-option.php:123
+#: elementor-options/main-slider-two-option.php:6
+#: elementor-options/main-slider-two-option.php:103
+msgid "Slider Content"
+msgstr ""
+
+#: elementor-options/main-slider-one-option.php:21
+#: elementor-options/main-slider-one-option.php:110
+#: elementor-options/main-slider-three-option.php:23
+#: elementor-options/main-slider-three-option.php:129
+#: elementor-options/main-slider-two-option.php:30
+#: elementor-options/main-slider-two-option.php:109
+#: elementor-options/process-one-option.php:19
+#: elementor-options/testimonial-one-option.php:21
+#: elementor-options/testimonial-two-option.php:22
+#: elementor-options/video-one-option.php:16
+msgid "Awesome Title"
+msgstr ""
+
+#: elementor-options/main-slider-one-option.php:30
+#: elementor-options/main-slider-three-option.php:33
+#: elementor-options/process-one-option.php:28
+msgid "Awesome Sub Title"
+msgstr ""
+
+#: elementor-options/main-slider-one-option.php:63
+msgid "Slider Background"
+msgstr ""
+
+#: elementor-options/main-slider-one-option.php:93
+msgid "Shape Three"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:42
+msgid "Discover More"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:66
+#: elementor-options/main-slider-two-option.php:92
+msgid "Slider Image"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:76
+msgid "Circle logo"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:86
+#: elementor-options/main-slider-two-option.php:20
+#: elementor-options/main-slider-two-option.php:83
+msgid "Circle Text"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:88
+#: elementor-options/main-slider-two-option.php:85
+msgid "We Are . Digital . Agency ."
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:95
+msgid "Shpae One"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:104
+msgid "Shpae Two"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:113
+msgid "Shpae Three"
+msgstr ""
+
+#: elementor-options/main-slider-two-option.php:22
+msgid "Circle Title"
+msgstr ""
+
+#: elementor-options/main-slider-two-option.php:64
+msgid "Slider Shape"
+msgstr ""
+
+#: elementor-options/main-slider-two-option.php:73
+msgid "Cirlce Image"
+msgstr ""
+
+#: elementor-options/process-one-option.php:39
+#: elementor-options/process-one-option.php:65
+msgid "Concept"
+msgstr ""
+
+#: elementor-options/process-one-option.php:59
+msgid "Items"
+msgstr ""
+
+#: elementor-options/process-one-option.php:75
+msgid "Summary Text"
+msgstr ""
+
+#: elementor-options/process-one-option.php:77
+msgid "Default Summary Text"
+msgstr ""
+
+#: elementor-options/project-five-option.php:6
+#: elementor-options/project-one-option.php:7
+#: elementor-options/project-three-option.php:6
+#: elementor-options/project-two-option.php:6
+msgid "Section Header"
+msgstr ""
+
+#: elementor-options/project-five-option.php:40
+#: elementor-options/project-one-option.php:41
+#: elementor-options/project-three-option.php:40
+msgid "Add description"
+msgstr ""
+
+#: elementor-options/project-five-option.php:41
+#: elementor-options/project-one-option.php:42
+#: elementor-options/project-three-option.php:41
+msgid "Default description"
+msgstr ""
+
+#: elementor-options/project-five-option.php:63
+#: elementor-options/project-four-option.php:31
+#: elementor-options/project-one-option.php:62
+#: elementor-options/project-three-option.php:63
+#: elementor-options/project-two-option.php:53
+msgid "Project Items"
+msgstr ""
+
+#: elementor-options/project-five-option.php:101
+#: elementor-options/project-four-option.php:69
+#: elementor-options/project-one-option.php:100
+#: elementor-options/project-three-option.php:101
+#: elementor-options/project-two-option.php:91
+msgid "Subtitle"
+msgstr ""
+
+#: elementor-options/project-five-option.php:103
+#: elementor-options/project-four-option.php:71
+#: elementor-options/project-one-option.php:102
+#: elementor-options/project-three-option.php:103
+#: elementor-options/project-two-option.php:93
+msgid "subtitle here"
+msgstr ""
+
+#: elementor-options/project-five-option.php:113
+#: elementor-options/project-four-option.php:81
+#: elementor-options/project-one-option.php:112
+#: elementor-options/project-three-option.php:113
+#: elementor-options/project-two-option.php:103
+msgid "Learn More"
+msgstr ""
+
+#: elementor-options/project-five-option.php:137
+#: elementor-options/project-four-option.php:105
+#: elementor-options/project-one-option.php:136
+#: elementor-options/project-three-option.php:137
+#: elementor-options/project-two-option.php:127
+msgid "Link Icon"
+msgstr ""
+
+#: elementor-options/project-five-option.php:148
+#: elementor-options/project-four-option.php:116
+#: elementor-options/project-three-option.php:148
+#: elementor-options/project-two-option.php:138
+msgid "Zoom Icon"
+msgstr ""
+
+#: elementor-options/project-five-option.php:160
+#: elementor-options/project-four-option.php:128
+#: elementor-options/project-one-option.php:158
+#: elementor-options/project-three-option.php:160
+#: elementor-options/project-two-option.php:150
+#: elementor-options/service-four-option.php:148
+#: elementor-options/service-one-option.php:144
+#: elementor-options/service-three-option.php:156
+#: elementor-options/service-two-option.php:155
+msgid "Services"
+msgstr ""
+
+#: elementor-options/project-four-option.php:6
+msgid "Section Background"
+msgstr ""
+
+#: elementor-options/project-one-option.php:147
+msgid "Like Icon"
+msgstr ""
+
+#: elementor-options/service-four-option.php:19
+#: elementor-options/service-one-option.php:19
+#: elementor-options/service-three-option.php:19
+#: elementor-options/service-two-option.php:19
+msgid "Default Title "
+msgstr ""
+
+#: elementor-options/service-four-option.php:28
+#: elementor-options/service-three-option.php:28
+#: elementor-options/service-two-option.php:28
+msgid "Default Description Here "
+msgstr ""
+
+#: elementor-options/service-four-option.php:40
+#: elementor-options/service-one-option.php:40
+#: elementor-options/service-three-option.php:40
+#: elementor-options/service-two-option.php:40
+#: elementor-options/team-one-option.php:30
+#: elementor-options/testimonial-one-option.php:31
+#: elementor-options/testimonial-two-option.php:31
+msgid "Default Sub Title"
+msgstr ""
+
+#: elementor-options/service-four-option.php:61
+#: elementor-options/service-one-option.php:60
+#: elementor-options/service-three-option.php:61
+#: elementor-options/service-two-option.php:60
+msgid "Service "
+msgstr ""
+
+#: elementor-options/service-four-option.php:110
+#: elementor-options/service-one-option.php:108
+msgid "short description here"
+msgstr ""
+
+#: elementor-options/service-one-option.php:28
+msgid "Default description "
+msgstr ""
+
+#: elementor-options/service-three-option.php:98
+#: elementor-options/service-two-option.php:97
+msgid "Button Bg shape"
+msgstr ""
+
+#: elementor-options/service-three-option.php:118
+#: elementor-options/service-two-option.php:117
+msgid "details"
+msgstr ""
+
+#: elementor-options/service-three-option.php:120
+#: elementor-options/service-two-option.php:119
+msgid ""
+"Together we transform your business from the people to\n"
+"        the processes."
+msgstr ""
+
+#: elementor-options/service-three-option.php:132
+#: elementor-options/service-two-option.php:131 includes/Widgets/Service.php:15
+msgid "Service"
+msgstr ""
+
+#: elementor-options/service-two-option.php:47
+msgid "Background image"
+msgstr ""
+
+#: elementor-options/sidebar-call-to-action-one-option.php:35
+msgid "Info Title"
+msgstr ""
+
+#: elementor-options/sidebar-call-to-action-one-option.php:37
+msgid "feel free to call"
+msgstr ""
+
+#: elementor-options/sidebar-call-to-action-one-option.php:44
+msgid "Info Text"
+msgstr ""
+
+#: elementor-options/sidebar-call-to-action-one-option.php:46
+msgid "(11) 22 11-5751"
+msgstr ""
+
+#: elementor-options/sidebar-call-to-action-one-option.php:57
+msgid "Begin a Conversation"
+msgstr ""
+
+#: elementor-options/sidebar-download-option-one.php:17
+#: elementor-options/sidebar-nav-menu-one-option.php:17
+msgid "Service Categories"
+msgstr ""
+
+#: elementor-options/sidebar-download-option-one.php:26
+#: elementor-options/sidebar-download-option-one.php:29
+msgid "File Name"
+msgstr ""
+
+#: elementor-options/sidebar-download-option-one.php:28
+msgid "Add Name"
+msgstr ""
+
+#: elementor-options/sidebar-download-option-one.php:35
+#: elementor-options/sidebar-download-option-one.php:38
+msgid "File Size"
+msgstr ""
+
+#: elementor-options/sidebar-download-option-one.php:37
+msgid "Add Size"
+msgstr ""
+
+#: elementor-options/sidebar-download-option-one.php:45
+msgid "Download Link"
+msgstr ""
+
+#: elementor-options/sidebar-download-option-one.php:47
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor-options/sidebar-download-option-one.php:73
+msgid "Download Item"
+msgstr ""
+
+#: elementor-options/sidebar-nav-menu-one-option.php:37
+msgid "Nav Menus"
+msgstr ""
+
+#: elementor-options/sidebar-project-one-option.php:13
+msgid "Add Widget Title"
+msgstr ""
+
+#: elementor-options/sidebar-project-one-option.php:55
+msgid "Tab Items"
+msgstr ""
+
+#: elementor-options/team-one-option.php:39
+#: elementor-options/team-two-option.php:19
+msgid "Bio"
+msgstr ""
+
+#: elementor-options/team-one-option.php:41
+#: elementor-options/team-two-option.php:21
+msgid "Family Psychology"
+msgstr ""
+
+#: elementor-options/team-one-option.php:48
+#: elementor-options/team-two-option.php:28
+#: elementor-options/testimonial-one-option.php:78
+#: elementor-options/testimonial-two-option.php:39
+msgid "Name"
+msgstr ""
+
+#: elementor-options/team-one-option.php:50
+#: elementor-options/team-two-option.php:30
+msgid "Mike Hardson"
+msgstr ""
+
+#: elementor-options/team-one-option.php:58
+#: elementor-options/team-two-option.php:38
+msgid "Url"
+msgstr ""
+
+#: elementor-options/team-one-option.php:74
+#: elementor-options/team-two-option.php:54
+msgid "Social NetWork"
+msgstr ""
+
+#: elementor-options/team-one-option.php:95
+#: elementor-options/team-two-option.php:75 includes/Widgets/Team.php:15
+msgid "Team"
+msgstr ""
+
+#: elementor-options/team-one-option.php:102
+#: elementor-options/team-two-option.php:85
+#: elementor-options/testimonial-one-option.php:126
+#: elementor-options/testimonial-two-option.php:99
+msgid "Tushar"
+msgstr ""
+
+#: elementor-options/team-one-option.php:105
+#: elementor-options/team-two-option.php:88
+#: elementor-options/testimonial-one-option.php:129
+#: elementor-options/testimonial-two-option.php:102
+msgid "Samrat"
+msgstr ""
+
+#: elementor-options/team-one-option.php:108
+#: elementor-options/team-two-option.php:91
+msgid "Ashik"
+msgstr ""
+
+#: elementor-options/testimonial-one-option.php:38
+msgid "Section Content"
+msgstr ""
+
+#: elementor-options/testimonial-one-option.php:49
+msgid "Tagline"
+msgstr ""
+
+#: elementor-options/testimonial-one-option.php:51
+msgid "Great Services"
+msgstr ""
+
+#: elementor-options/testimonial-one-option.php:59
+msgid "Rating"
+msgstr ""
+
+#: elementor-options/testimonial-one-option.php:80
+#: elementor-options/testimonial-two-option.php:41
+msgid "Jessica Brown"
+msgstr ""
+
+#: elementor-options/testimonial-one-option.php:91
+#: elementor-options/testimonial-two-option.php:52
+msgid "CO Founder"
+msgstr ""
+
+#: elementor-options/testimonial-one-option.php:99
+#: elementor-options/testimonial-two-option.php:60
+msgid "Testimonial"
+msgstr ""
+
+#: elementor-options/testimonial-one-option.php:101
+#: elementor-options/testimonial-two-option.php:62
+msgid "Default Testimonial Content"
+msgstr ""
+
+#: elementor-options/testimonial-one-option.php:120
+#: elementor-options/testimonial-two-option.php:92
+msgid "Testimonial Items"
+msgstr ""
+
+#: elementor-options/video-one-option.php:28
+msgid "Awesome Subtitle"
+msgstr ""
+
+#: elementor-options/video-one-option.php:36
+msgid "Awesome Text"
+msgstr ""
+
+#: elementor-options/video-one-option.php:43
+msgid "Video Url"
+msgstr ""
+
+#: elementor-options/video-one-option.php:45
+msgid "Add Video Url"
+msgstr ""
+
+#: elementor-options/video-one-option.php:55
+msgid "Count Item"
+msgstr ""
+
+#: elementor-options/video-one-option.php:77
+msgid "Add Number"
+msgstr ""
+
+#: elementor-options/video-one-option.php:78
+msgid "25"
+msgstr ""
+
+#: elementor-options/video-one-option.php:84
+msgid "Count After"
+msgstr ""
+
+#: elementor-options/video-one-option.php:86
+msgid "Add After"
+msgstr ""
+
+#: elementor-templates/blog-three.php:66
+msgid "Details"
+msgstr ""
+
+#: elementor-templates/features-one.php:52
+#: elementor-templates/features-two.php:77
+msgid "%"
+msgstr ""
+
+#: elementor-templates/header.php:255
+msgid "search here"
+msgstr ""
+
+#: elementor-templates/header.php:256
+msgid "Search Here..."
+msgstr ""
+
+#: includes/Customizer.php:18
+msgid "Xaito Options"
+msgstr ""
+
+#: includes/Customizer.php:19
+msgid "Xaito Theme options panel"
+msgstr ""
+
+#: includes/Customizer.php:27
+msgid "General Settings"
+msgstr ""
+
+#: includes/Customizer.php:28
+msgid "Xaito General Settings."
+msgstr ""
+
+#: includes/Customizer.php:37
+msgid "Select Theme Base color"
+msgstr ""
+
+#: includes/Customizer.php:45
+msgid "Select Theme Primary color"
+msgstr ""
+
+#: includes/Customizer.php:53
+msgid "Select Theme Black color"
+msgstr ""
+
+#: includes/Customizer.php:62
+msgid " Enable Dark Mode?"
+msgstr ""
+
+#: includes/Customizer.php:74
+msgid " Enable Boxed Mode?"
+msgstr ""
+
+#: includes/Customizer.php:86
+msgid " Enable Rtl Mode?"
+msgstr ""
+
+#: includes/Customizer.php:98
+msgid " Enable Custom Cursor"
+msgstr ""
+
+#: includes/Customizer.php:110
+msgid " Enable Back to top?"
+msgstr ""
+
+#: includes/Customizer.php:122
+msgid "Select Back to top icon"
+msgstr ""
+
+#: includes/Customizer.php:134
+msgid " Enable Preloader?"
+msgstr ""
+
+#: includes/Customizer.php:146
+msgid "Custom Preloader Image"
+msgstr ""
+
+#: includes/Customizer.php:157
+msgid "Page Header Background Image"
+msgstr ""
+
+#: includes/Customizer.php:164
+msgid "Page Header Shape One"
+msgstr ""
+
+#: includes/Customizer.php:170
+msgid "Page Header Shape Two"
+msgstr ""
+
+#: includes/Customizer.php:176
+msgid "Page Header Shape Three"
+msgstr ""
+
+#: includes/Customizer.php:182
+msgid "404 Background Image"
+msgstr ""
+
+#: includes/Customizer.php:188
+msgid "404 Shape One"
+msgstr ""
+
+#: includes/Customizer.php:194
+msgid "404 Shape Two"
+msgstr ""
+
+#: includes/Customizer.php:201
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/Customizer.php:202
+msgid "Xaito Blog Layout"
+msgstr ""
+
+#: includes/Customizer.php:215
+msgid "Left Align"
+msgstr ""
+
+#: includes/Customizer.php:216
+msgid "Right Align"
+msgstr ""
+
+#: includes/Customizer.php:222
+msgid "Header Settings"
+msgstr ""
+
+#: includes/Customizer.php:223 includes/Customizer.php:288
+msgid "Xaito Header Settings"
+msgstr ""
+
+#: includes/Customizer.php:231
+msgid "Add Logo size in px"
+msgstr ""
+
+#: includes/Customizer.php:239
+msgid "Enable Sticky Header?"
+msgstr ""
+
+#: includes/Customizer.php:251
+msgid " Enable Breadcrumb?"
+msgstr ""
+
+#: includes/Customizer.php:263
+msgid "Enable Custom Header?"
+msgstr ""
+
+#: includes/Customizer.php:275
+msgid "Select Header Type"
+msgstr ""
+
+#: includes/Customizer.php:287
+msgid "Mobile Menu Settings"
+msgstr ""
+
+#: includes/Customizer.php:296
+msgid "Mobile Menu Email"
+msgstr ""
+
+#: includes/Customizer.php:299
+msgid "needhelp@xaito.com"
+msgstr ""
+
+#: includes/Customizer.php:304
+msgid "Mobile Menu Phone"
+msgstr ""
+
+#: includes/Customizer.php:307
+msgid "666 888 0000"
+msgstr ""
+
+#: includes/Customizer.php:312
+msgid "Facebook url"
+msgstr ""
+
+#: includes/Customizer.php:320
+msgid "Twitter url"
+msgstr ""
+
+#: includes/Customizer.php:328
+msgid "Linkedin url"
+msgstr ""
+
+#: includes/Customizer.php:336
+msgid "Pinterest url"
+msgstr ""
+
+#: includes/Customizer.php:344
+msgid "Youtube url"
+msgstr ""
+
+#: includes/Customizer.php:352
+msgid "dribbble url"
+msgstr ""
+
+#: includes/Customizer.php:359
+msgid "Instagram url"
+msgstr ""
+
+#: includes/Customizer.php:366
+msgid "Reddit url"
+msgstr ""
+
+#: includes/Customizer.php:373
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/Customizer.php:374
+msgid "Xaito Footer Settings."
+msgstr ""
+
+#: includes/Customizer.php:382
+msgid "Footer Text"
+msgstr ""
+
+#: includes/Customizer.php:385
+msgid "&copy; All right reserved"
+msgstr ""
+
+#: includes/Customizer.php:393
+msgid "Enable Custom Footer ?"
+msgstr ""
+
+#: includes/Customizer.php:405
+msgid "Select Footer Type"
+msgstr ""
+
+#: includes/Frontend/Shortcodes.php:52 includes/Frontend/Shortcodes.php:80
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: includes/Megamenu/Walker_Nav_Menu_Edit.php:63
+msgid "Select Mega Menu"
+msgstr ""
+
+#: includes/Megamenu/Walker_Nav_Menu_Edit.php:65
+msgid "None"
+msgstr ""
+
+#: includes/Megamenu/Walker_Nav_Menu_Edit.php:80
+msgid "Custom class"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:19
+msgid "Event Options"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:26 post-templates/single-event.php:44
+msgid "Starting Time"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:32
+msgid "Event Date"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:39 post-templates/single-event.php:76
+msgid "Phone"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:45
+msgid "Email"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:51 includes/Widgets/GoogleMaps.php:63
+#: post-templates/single-event.php:92
+msgid "Location"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:57
+msgid "Country"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:63
+msgid "Set Map Location"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:70
+msgid "Map Zoom"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:80
+msgid "Register Button Label"
+msgstr ""
+
+#: includes/Metaboxes/Event.php:86
+msgid "Register Button Url"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:19
+msgid "General Options"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:26
+msgid "Enable Custom Header"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:30 includes/Metaboxes/Page.php:52
+#: includes/Metaboxes/Page.php:76 includes/Metaboxes/Page.php:87
+#: includes/Metaboxes/Page.php:122 includes/Metaboxes/Page.php:133
+#: includes/Metaboxes/Page.php:144
+msgid "On"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:31 includes/Metaboxes/Page.php:53
+#: includes/Metaboxes/Page.php:77 includes/Metaboxes/Page.php:88
+#: includes/Metaboxes/Page.php:123 includes/Metaboxes/Page.php:134
+#: includes/Metaboxes/Page.php:145
+msgid "Off"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:37
+msgid "Select Custom Header"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:48
+msgid "Enable Custom Footer"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:59
+msgid "Select Custom Footer"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:71
+msgid "Show Page Banner"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:82
+msgid "Enable BreadCrumb"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:97
+msgid "Header Title"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:107
+msgid "Header Image"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:117
+msgid "Enable Dark Mode"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:128
+msgid "Enable Boxed Mode"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:139
+msgid "Enable Rtl Mode"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:151
+msgid "Color Options"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:159
+msgid "Base Color"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:164
+msgid "black Color"
+msgstr ""
+
+#: includes/PostTypes/Footer.php:28 includes/PostTypes/Header.php:28
+#: includes/PostTypes/Megamenu.php:28
+msgid "Add New"
+msgstr ""
+
+#: includes/PostTypes/Footer.php:29 includes/PostTypes/Header.php:29
+#: includes/PostTypes/Megamenu.php:29
+msgid "Add New "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:30 includes/PostTypes/Header.php:30
+#: includes/PostTypes/Megamenu.php:30
+msgid "Edit "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:31 includes/PostTypes/Header.php:31
+#: includes/PostTypes/Megamenu.php:31
+msgid "New "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:32 includes/PostTypes/Header.php:32
+#: includes/PostTypes/Megamenu.php:32
+msgid "All "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:33 includes/PostTypes/Footer.php:34
+#: includes/PostTypes/Header.php:33 includes/PostTypes/Header.php:34
+#: includes/PostTypes/Megamenu.php:33 includes/PostTypes/Megamenu.php:34
+msgid "View "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:35 includes/PostTypes/Header.php:35
+#: includes/PostTypes/Megamenu.php:35
+msgid "Search "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:36 includes/PostTypes/Footer.php:37
+#: includes/PostTypes/Header.php:36 includes/PostTypes/Header.php:37
+#: includes/PostTypes/Megamenu.php:36 includes/PostTypes/Megamenu.php:37
+msgid "No "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:36 includes/PostTypes/Header.php:36
+#: includes/PostTypes/Megamenu.php:36
+msgid " found"
+msgstr ""
+
+#: includes/PostTypes/Footer.php:37 includes/PostTypes/Header.php:37
+#: includes/PostTypes/Megamenu.php:37
+msgid " found in Trash"
+msgstr ""
+
+#: includes/PostTypes/Footer.php:67 includes/PostTypes/Header.php:67
+msgid " Categories"
+msgstr ""
+
+#: includes/Widgets/About.php:15
+msgid "About"
+msgstr ""
+
+#: includes/Widgets/About.php:33 includes/Widgets/Blog.php:33
+#: includes/Widgets/CallToAction.php:33 includes/Widgets/ContactForm.php:34
+#: includes/Widgets/Faq.php:35 includes/Widgets/Features.php:33
+#: includes/Widgets/FooterAbout.php:34 includes/Widgets/FooterBlog.php:34
+#: includes/Widgets/FooterContact.php:34
+#: includes/Widgets/FooterCopyright.php:34
+#: includes/Widgets/FooterNavMenu.php:34
+#: includes/Widgets/FooterSubscribe.php:34 includes/Widgets/Funfact.php:34
+#: includes/Widgets/MainSlider.php:33 includes/Widgets/Project.php:33
+#: includes/Widgets/Service.php:33 includes/Widgets/SidebarAction.php:33
+#: includes/Widgets/SidebarDownload.php:33 includes/Widgets/SidebarNav.php:33
+#: includes/Widgets/SidebarProjectInfo.php:33 includes/Widgets/Sponsors.php:33
+#: includes/Widgets/Subscribe.php:34 includes/Widgets/Team.php:33
+#: includes/Widgets/Testimonials.php:33 includes/Widgets/Video.php:33
+msgid "Layout"
+msgstr ""
+
+#: includes/Widgets/About.php:41 includes/Widgets/Blog.php:41
+#: includes/Widgets/CallToAction.php:41 includes/Widgets/ContactForm.php:42
+#: includes/Widgets/Faq.php:43 includes/Widgets/Features.php:41
+#: includes/Widgets/FooterAbout.php:42 includes/Widgets/FooterBlog.php:42
+#: includes/Widgets/FooterContact.php:42
+#: includes/Widgets/FooterCopyright.php:42
+#: includes/Widgets/FooterNavMenu.php:42
+#: includes/Widgets/FooterSubscribe.php:42 includes/Widgets/Funfact.php:42
+#: includes/Widgets/Header.php:41 includes/Widgets/MainSlider.php:41
+#: includes/Widgets/Project.php:41 includes/Widgets/Service.php:41
+#: includes/Widgets/SidebarAction.php:41
+#: includes/Widgets/SidebarDownload.php:41 includes/Widgets/SidebarNav.php:41
+#: includes/Widgets/SidebarProjectInfo.php:41 includes/Widgets/Sponsors.php:41
+#: includes/Widgets/Subscribe.php:42 includes/Widgets/Team.php:41
+#: includes/Widgets/Testimonials.php:41 includes/Widgets/Video.php:41
+msgid "Select Layout"
+msgstr ""
+
+#: includes/Widgets/About.php:45 includes/Widgets/Blog.php:45
+#: includes/Widgets/CallToAction.php:45 includes/Widgets/ContactForm.php:46
+#: includes/Widgets/Faq.php:47 includes/Widgets/Features.php:45
+#: includes/Widgets/FooterAbout.php:46 includes/Widgets/FooterBlog.php:46
+#: includes/Widgets/FooterContact.php:46
+#: includes/Widgets/FooterCopyright.php:46
+#: includes/Widgets/FooterNavMenu.php:46
+#: includes/Widgets/FooterSubscribe.php:46 includes/Widgets/Funfact.php:46
+#: includes/Widgets/Header.php:45 includes/Widgets/MainSlider.php:45
+#: includes/Widgets/Project.php:45 includes/Widgets/Service.php:45
+#: includes/Widgets/SidebarAction.php:45
+#: includes/Widgets/SidebarDownload.php:45 includes/Widgets/SidebarNav.php:45
+#: includes/Widgets/SidebarProjectInfo.php:45 includes/Widgets/Sponsors.php:45
+#: includes/Widgets/Subscribe.php:46 includes/Widgets/Team.php:45
+#: includes/Widgets/Testimonials.php:45 includes/Widgets/Video.php:45
+msgid "Layout One"
+msgstr ""
+
+#: includes/Widgets/About.php:46 includes/Widgets/Blog.php:46
+#: includes/Widgets/CallToAction.php:46 includes/Widgets/Faq.php:48
+#: includes/Widgets/Features.php:46 includes/Widgets/Funfact.php:47
+#: includes/Widgets/Header.php:46 includes/Widgets/MainSlider.php:46
+#: includes/Widgets/Project.php:46 includes/Widgets/Service.php:46
+#: includes/Widgets/Team.php:46
+msgid "Layout Two"
+msgstr ""
+
+#: includes/Widgets/About.php:47 includes/Widgets/Blog.php:47
+#: includes/Widgets/Header.php:47 includes/Widgets/MainSlider.php:47
+#: includes/Widgets/Project.php:47 includes/Widgets/Service.php:47
+msgid "Layout Three"
+msgstr ""
+
+#: includes/Widgets/About.php:48 includes/Widgets/Project.php:48
+#: includes/Widgets/Service.php:48
+msgid "Layout Four"
+msgstr ""
+
+#: includes/Widgets/About.php:49 includes/Widgets/Project.php:49
+msgid "Layout Five"
+msgstr ""
+
+#: includes/Widgets/About.php:67 includes/Widgets/Blog.php:89
+#: includes/Widgets/CallToAction.php:60 includes/Widgets/ContactForm.php:170
+#: includes/Widgets/Features.php:60 includes/Widgets/FooterContact.php:59
+#: includes/Widgets/FooterCopyright.php:87
+#: includes/Widgets/FooterNavMenu.php:59 includes/Widgets/Header.php:60
+#: includes/Widgets/MainSlider.php:63 includes/Widgets/Service.php:64
+#: includes/Widgets/SidebarAction.php:58
+#: includes/Widgets/SidebarDownload.php:58 includes/Widgets/SidebarNav.php:58
+#: includes/Widgets/SidebarProjectInfo.php:58 includes/Widgets/Subscribe.php:59
+#: includes/Widgets/Team.php:60 includes/Widgets/Testimonials.php:59
+#: includes/Widgets/Video.php:59
+msgid "Style Options"
+msgstr ""
+
+#: includes/Widgets/About.php:85
+msgid "Content Color"
+msgstr ""
+
+#: includes/Widgets/About.php:98 includes/Widgets/SidebarDownload.php:72
+#: includes/Widgets/SidebarNav.php:72
+msgid "Icon Color"
+msgstr ""
+
+#: includes/Widgets/About.php:112
+msgid "Bottom Content Color"
+msgstr ""
+
+#: includes/Widgets/Blog.php:15
+msgid "Blog"
+msgstr ""
+
+#: includes/Widgets/Blog.php:105
+msgid "Blog Options"
+msgstr ""
+
+#: includes/Widgets/Blog.php:115
+msgid "Title Hover Color"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:15
+msgid "Call To Action"
+msgstr ""
+
+#: includes/Widgets/ContactForm.php:15
+msgid "Contact Form"
+msgstr ""
+
+#: includes/Widgets/ContactForm.php:78
+msgid "Section info text"
+msgstr ""
+
+#: includes/Widgets/ContactForm.php:80
+msgid "Add info text"
+msgstr ""
+
+#: includes/Widgets/ContactForm.php:81
+msgid "Default text"
+msgstr ""
+
+#: includes/Widgets/ContactForm.php:88
+msgid "Select your contact form 7"
+msgstr ""
+
+#: includes/Widgets/ContactForm.php:104
+msgid "Contat Item"
+msgstr ""
+
+#: includes/Widgets/ContactForm.php:140
+msgid "<a href=\"tel:8801682648101\">+8801682648101</a>"
+msgstr ""
+
+#: includes/Widgets/Faq.php:63
+msgid "Font Typos"
+msgstr ""
+
+#: includes/Widgets/Features.php:15
+msgid "Features"
+msgstr ""
+
+#: includes/Widgets/Features.php:74
+msgid "Feature box"
+msgstr ""
+
+#: includes/Widgets/Features.php:92
+msgid "Progress box"
+msgstr ""
+
+#: includes/Widgets/Features.php:105
+msgid "Number Color"
+msgstr ""
+
+#: includes/Widgets/Features.php:118
+msgid "Number Background"
+msgstr ""
+
+#: includes/Widgets/Features.php:131
+msgid "Counter Color"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:15
+msgid "Footer About"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:59 includes/Widgets/FooterSubscribe.php:59
+msgid "Style"
+msgstr ""
+
+#: includes/Widgets/FooterBlog.php:15
+msgid "Footer Blog"
+msgstr ""
+
+#: includes/Widgets/FooterBlog.php:93
+msgid "Post Category"
+msgstr ""
+
+#: includes/Widgets/FooterBlog.php:116
+msgid "Content Style"
+msgstr ""
+
+#: includes/Widgets/FooterContact.php:15
+msgid "Footer Contact"
+msgstr ""
+
+#: includes/Widgets/FooterCopyright.php:15
+msgid "Footer CopyRight"
+msgstr ""
+
+#: includes/Widgets/FooterCopyright.php:64
+msgid "Add Right Text"
+msgstr ""
+
+#: includes/Widgets/FooterCopyright.php:66
+msgid "© 2023 Xaito.com All Rights Reserved"
+msgstr ""
+
+#: includes/Widgets/FooterCopyright.php:73
+msgid "Select Copyright Menu"
+msgstr ""
+
+#: includes/Widgets/FooterNavMenu.php:15
+msgid "Footer Nav Menus"
+msgstr ""
+
+#: includes/Widgets/FooterSubscribe.php:15
+msgid "Footer Subscribe"
+msgstr ""
+
+#: includes/Widgets/Funfact.php:15
+msgid "Funfact"
+msgstr ""
+
+#: includes/Widgets/Funfact.php:61
+msgid "Counter Options"
+msgstr ""
+
+#: includes/Widgets/Funfact.php:75
+msgid "Professional Options"
+msgstr ""
+
+#: includes/Widgets/GoogleMaps.php:16
+msgid "Google Maps"
+msgstr ""
+
+#: includes/Widgets/GoogleMaps.php:34 includes/Widgets/GoogleMaps.php:131
+msgid "Map"
+msgstr ""
+
+#: includes/Widgets/GoogleMaps.php:48
+#, php-format
+msgid "Set your Google Maps API Key in Elementor's %1$sIntegrations Settings%3$s page. Create your key %2$shere.%3$s"
+msgstr ""
+
+#: includes/Widgets/GoogleMaps.php:59
+msgid "London Eye, London, United Kingdom"
+msgstr ""
+
+#: includes/Widgets/GoogleMaps.php:80
+msgid "Zoom"
+msgstr ""
+
+#: includes/Widgets/GoogleMaps.php:98
+msgid "Height"
+msgstr ""
+
+#: includes/Widgets/GoogleMaps.php:120
+msgid "View"
+msgstr ""
+
+#: includes/Widgets/GoogleMaps.php:173
+msgid "Transition Duration"
+msgstr ""
+
+#: includes/Widgets/Header.php:15
+msgid "Header"
+msgstr ""
+
+#: includes/Widgets/Header.php:33
+msgid "Layout Type"
+msgstr ""
+
+#: includes/Widgets/Header.php:76 includes/Widgets/MainSlider.php:80
+msgid "Button Style"
+msgstr ""
+
+#: includes/Widgets/Header.php:90
+msgid "Icons Style"
+msgstr ""
+
+#: includes/Widgets/MainSlider.php:15
+msgid "Main Slider"
+msgstr ""
+
+#: includes/Widgets/Project.php:15
+msgid "Project"
+msgstr ""
+
+#: includes/Widgets/Project.php:66
+msgid "Genarel Style"
+msgstr ""
+
+#: includes/Widgets/Project.php:81
+msgid "Project Style"
+msgstr ""
+
+#: includes/Widgets/Project.php:91
+msgid "Project Hover"
+msgstr ""
+
+#: includes/Widgets/Service.php:78
+msgid "Service Style Options"
+msgstr ""
+
+#: includes/Widgets/SidebarAction.php:15
+msgid "Sidebar Call To Action"
+msgstr ""
+
+#: includes/Widgets/SidebarDownload.php:15
+msgid "SidebarDownload"
+msgstr ""
+
+#: includes/Widgets/SidebarNav.php:15
+msgid "SidebarNav"
+msgstr ""
+
+#: includes/Widgets/SidebarProjectInfo.php:15
+msgid "Sidebar Project Info"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:15
+msgid "Sponsors"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:66
+msgid "Add Image"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:73
+msgid "Add Link"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:82
+msgid "Sponsor Items"
+msgstr ""
+
+#: includes/Widgets/Subscribe.php:15
+msgid "Subscribe"
+msgstr ""
+
+#: includes/Widgets/Testimonials.php:15
+msgid "Testimonials"
+msgstr ""
+
+#: includes/Widgets/Testimonials.php:74
+msgid "Testimonial Options"
+msgstr ""
+
+#: includes/Widgets/Video.php:15
+msgid "Video"
+msgstr ""
+
+#: post-templates/single-event.php:40
+msgid "Event Details"
+msgstr ""
+
+#: post-templates/single-event.php:52
+msgid "Date"
+msgstr ""
+
+#: post-templates/single-event.php:60
+msgid "Category"
+msgstr ""
+
+#: post-templates/single-event.php:84
+msgid "Website"
+msgstr ""

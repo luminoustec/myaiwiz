@@ -1,0 +1,46 @@
+@use '../../utils' as *;
+
+/*----------------------------------------*/
+/* 7.12 Count css */
+
+/*----------------------------------------*/
+
+.xc-count-one {
+    &__section{
+        position: relative;
+        z-index: 2;
+    }
+    &__wrapper {
+        background-color: var(--xc-common-white);
+        box-shadow: 0px 0px 59px 0px rgba(0, 0, 0, 0.14);
+        border-top: 5px solid var(--xc-theme-primary);
+    }
+    &__box{
+        margin: 40px 0;
+        padding:0 50px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        border-right: 1px solid var(--xc-border-1);
+        @media #{$xs,$sm} {
+            margin: 0;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        & span {
+            & i {
+                font-size: 34px;
+                margin-right: 10px;
+                color: var(--xc-theme-primary);
+                @media #{$xs,$sm} {
+                    margin-right: 30px;
+                }
+            }
+        }
+        & p.count-box {
+            font-size: 36px;
+            font-weight: 700;
+            color: var(--xc-common-black);
+            margin-bottom: 5px;
+        }
+    }
+}
