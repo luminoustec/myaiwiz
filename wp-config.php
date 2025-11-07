@@ -27,7 +27,7 @@ define( 'DB_NAME', 'myaiwiz');
 define( 'DB_USER', 'myaiwiz');
 
 /** Database password */
-define( 'DB_PASSWORD', 'myaiwiz' );
+define( 'DB_PASSWORD', 'sTnWkpGNhaFtCjj9Icf0o9IO' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost');
